@@ -48,3 +48,12 @@ VERSION 2.2
 - Revised 200 original multiple-choice questions so distractors stay on the same policy point instead of unrelated General Orders.
 - Integrated 62 timeline/deadline questions.
 - Full GO number and title are shown in Sergeant question wording/categories.
+
+VERSION 2.3
+- Added persistent “Flag for Review” control to every quiz/test question.
+- Flagged questions appear in Manage > Flagged for review, with direct Edit and Clear Flag controls.
+- Answer choices can now be selected and unselected before submission.
+- Added a required Submit Answer step before Next Question.
+- Practice mode shows feedback only after Submit Answer.
+- Quiz/exam mode locks the submitted answer without revealing correctness until final results.
+- Export Progress now includes the flagged-question review queue.
