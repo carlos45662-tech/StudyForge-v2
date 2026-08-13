@@ -41,3 +41,10 @@ IMPORTANT
 Your original built-in questions remain in data.js. Editing a built-in question stores an override in Safari. Disabling a built-in question hides it but does not remove it from data.js.
 
 Progress and custom questions are stored in Safari local storage. Clearing website data can erase them, so use Export Progress periodically.
+
+
+VERSION 2.2
+- Sergeant bank now contains 348 built-in questions.
+- Revised 200 original multiple-choice questions so distractors stay on the same policy point instead of unrelated General Orders.
+- Integrated 62 timeline/deadline questions.
+- Full GO number and title are shown in Sergeant question wording/categories.
